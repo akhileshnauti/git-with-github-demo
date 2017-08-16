@@ -7,4 +7,5 @@ Disallow:
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
-# line added to demo pull/push
+# line added to demo pull on client
+# line added from client to demonstrate push
